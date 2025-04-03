@@ -1,1 +1,1 @@
-Slides relative all'intervento "Finanziamenti regionali, nazionali, europei"
+Slides relative all'intervento "Finanziamenti regionali, nazionali, europei".
