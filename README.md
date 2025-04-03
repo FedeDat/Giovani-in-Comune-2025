@@ -23,19 +23,19 @@ A cura dell'Ing. Stefania Mauro, Ricercatrice senior di Fondazione LINKS.
 ### 10/02/2025 - Processi di innovazione e pianificazione nella Pubblica Amministrazione
 A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordination presso Comune di Torino.
 
-📂 [Intervento del Dr. Michele Fatibene](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/blob/main/Processi%20di%20innovazione%20e%20pianificazione%20nella%20Pubblica%20Amministrazione/10_02_2025_Innovazione_PA_Michele_Fatibene.pdf)
+📂 [Intervento del Dr. Michele Fatibene](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Processi%20di%20innovazione%20e%20pianificazione%20nella%20Pubblica%20Amministrazione/10_02_2025_Innovazione_PA_Michele_Fatibene.pdf)
 
 📹 Registrazione disponibile tramite richiesta [via email a corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 01/03/2025 - Appalti pubblici (con focus su nuovo codice e primo correttivo)
 A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 
-📂 [Intervento di Luciana Mellano](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/blob/main/Appalti%20pubblici%20(con%20focus%20su%20nuovo%20codice%20e%20primo%20correttivo)/01_03_2025_Appalti_Luciana_Mellano.pdf)
+📂 [Intervento di Luciana Mellano](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/main/Appalti%20pubblici%20(con%20focus%20su%20nuovo%20codice%20e%20primo%20correttivo)/01_03_2025_Appalti_Luciana_Mellano.pdf)
 ### 13/03/2025 - Politiche di invecchiamento attivo
 A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, Marcello Galletti, responsabile Servizio Innovazione e Sviluppo della Diaconia Valdese Valli, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
 
-📂 [Intervento di Katia Castellano e Marcello Galletti](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/blob/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Castellano_Galetti.pdf)
+📂 [Intervento di Katia Castellano e Marcello Galletti](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Castellano_Galetti.pdf)
 
-📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/blob/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Mara_Begheldo.pdf)
+📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Mara_Begheldo.pdf)
 
 📹 Registrazione disponibile tramite richiesta [via email a corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 05/04/2025 - Promozione del territorio
