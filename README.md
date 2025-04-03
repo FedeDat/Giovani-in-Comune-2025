@@ -24,6 +24,7 @@ A cura dell'Ing. Stefania Mauro, Ricercatrice senior di Fondazione LINKS.
 A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordination presso Comune di Torino.
 
 📂 [Intervento del Dr. Michele Fatibene](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
+
 📹 Registrazione disponibile [via email a](mailto:corsi@anci.piemonte.it)
 ### 01/03/2025 - Appalti pubblici (con focus su nuovo codice e primo correttivo)
 A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
@@ -33,7 +34,9 @@ A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, Marcello Galletti, responsabile Servizio Innovazione e Sviluppo della Diaconia Valdese Valli, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
 
 📂 [Intervento di Katia Castellano e Marcello Galletti](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
+
 📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
+
 📹 Registrazione disponibile [via email a](mailto:corsi@anci.piemonte.it)
 ### 05/04/2025 - Promozione del territorio
 
