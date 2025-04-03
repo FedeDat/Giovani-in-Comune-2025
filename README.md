@@ -1,4 +1,4 @@
-
+![Banner](images/banner.png)
 
 # Introduzione al progetto
 Il progetto “Giovani in Comune!” ha come obiettivo principale la promozione della partecipazione attiva dei giovani (15-29 anni) e degli Amministratori Comunali Under 35 o di nuova nomina alla vita politica e sociale dei comuni del Pinerolese. Possono partecipare alla formazione anche altri cittadini/cittadine interessate e funzionari/funzionarie comunali. 
