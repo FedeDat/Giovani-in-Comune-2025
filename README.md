@@ -17,16 +17,24 @@ L’attività e realizzata con il contributo di Regione Piemonte e del Dipartime
 
 # Materiale
 ### 08/02/2025 - Finanziamenti regionali, nazionali, europei
+A cura dell'Ing. Stefania Mauro, Ricercatrice senior di Fondazione LINKS.
 
+Slides: 
 ### 10/02/2025 - Processi di innovazione e pianificazione nella Pubblica Amministrazione
+A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordination presso Comune di Torino.
 
+Slides:
 ### 01/03/2025 - Appalti pubblici (con focus su nuovo codice e primo correttivo)
+A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 
+Slides:
 ### 13/03/2025 - Politiche di invecchiamento attivo
+A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, Marcello Galletti, responsabile Servizio Innovazione e Sviluppo della Diaconia Valdese Valli, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
+
+Slides: 
+### 05/04/2025 - Promozione del territorio
 
 ### 07/04/2025 - Etica pubblica, status e ruolo dell’Amministratore locale
-
-### 05/04/2025 - Promozione del territorio
 
 ### 08/05/2025 - Strumenti digitali per rappresentazione, analisi e gestione del territorio
 
