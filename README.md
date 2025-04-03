@@ -1,6 +1,6 @@
-# Giovani in Comune!
 
-## Introduzione al progetto
+
+# Introduzione al progetto
 Il progetto “Giovani in Comune!” ha come obiettivo principale la promozione della partecipazione attiva dei giovani (15-29 anni) e degli Amministratori Comunali Under 35 o di nuova nomina alla vita politica e sociale dei comuni del Pinerolese. Possono partecipare alla formazione anche altri cittadini/cittadine interessate e funzionari/funzionarie comunali. 
 
 Le attività principali includono: 
@@ -15,7 +15,7 @@ _Enti Partner_: Comuni di Airasca, Campiglione Fenile, Cavour, Cercenasco, Garzi
 
 L’attività e realizzata con il contributo di Regione Piemonte e del Dipartimento per le Politiche giovanili e il Servizio Civile Universale – per il progetto “Partecipazione dei giovani alla vita sociale e politica dei territori” – III Edizione”.
 
-## Materiale
+# Materiale
 ### 08/02/2025 - Finanziamenti regionali, nazionali, europei
 
 ### 10/02/2025 - Processi di innovazione e pianificazione nella Pubblica Amministrazione
