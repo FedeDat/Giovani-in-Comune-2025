@@ -19,7 +19,7 @@ L’attività e realizzata con il contributo di Regione Piemonte e del Dipartime
 ### 08/02/2025 - Finanziamenti regionali, nazionali, europei
 A cura dell'Ing. Stefania Mauro, Ricercatrice senior di Fondazione LINKS.
 
-Slides: [Intervento dell'Ing. Mauro](Finanziamenti regionali, nazionali, europei/08_02_2025_Finanziamenti EU_Mauro Stefania.pdf)
+📂 Slides: [Intervento dell'Ing. Stefania Mauro](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Finanziamenti%20regionali%2C%20nazionali%2C%20europei/08_02_2025_Finanziamenti%20EU_Mauro%20Stefania.pdf)
 ### 10/02/2025 - Processi di innovazione e pianificazione nella Pubblica Amministrazione
 A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordination presso Comune di Torino.
 
