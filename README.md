@@ -37,3 +37,5 @@ L’attività e realizzata con il contributo di Regione Piemonte e del Dipartime
 ### 14/06/2025 - Gestione del Personale (assunzioni, obiettivi, limiti di spesa) e Welfare
 
 ### 12/07/2025 - Sviluppo urbano sostenibile
+
+![Footer](images/giovani-in-comune.jpeg)
