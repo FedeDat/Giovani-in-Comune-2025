@@ -29,7 +29,7 @@ A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordi
 ### 01/03/2025 - Appalti pubblici (con focus su nuovo codice e primo correttivo)
 A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 
-📂 [Intervento di Luciana Mellano](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/https://github.com/FedeDat/Giovani-in-Comune-2025/main/Appalti%20pubblici%20(con%20focus%20su%20nuovo%20codice%20e%20primo%20correttivo)/01_03_2025_Appalti_Luciana_Mellano.pdf)
+📂 [Intervento di Luciana Mellano](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Appalti%20pubblici%20(con%20focus%20su%20nuovo%20codice%20e%20primo%20correttivo)/01_03_2025_Appalti_Luciana_Mellano.pdf)
 ### 13/03/2025 - Politiche di invecchiamento attivo
 A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, Marcello Galletti, responsabile Servizio Innovazione e Sviluppo della Diaconia Valdese Valli, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
 
