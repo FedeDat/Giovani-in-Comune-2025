@@ -8,9 +8,9 @@ Le attività principali includono:
 - Seminario residenziale: Un evento finale di due giorni con vitto e alloggio offerto a giovani cittadini, giovani amministratori, o amministratori di prima nomina dei comuni partner per consolidare le competenze e favorire il networking. 
 - Coinvolgimento di amministratori e cittadini: Formazione per giovani amministratori e cittadini, facilitando la creazione di reti locali e la partecipazione alla governance
 
-Ente Capofila: Comune di Vigone 
+_Ente Capofila_: Comune di Vigone 
 
-Enti Partner: Comuni di Airasca, Campiglione Fenile, Cavour, Cercenasco, Garzigliana, Luserna San Giovanni, Lusernetta, Macello, Osasco, Prarostino, Rorà, Scalenghe, Torre Pellice, Villafranca Piemonte, Volvera, ALI Piemonte, UNCEM Piemonte, ANPCI, ANCI Piemonte 
+_Enti Partner_: Comuni di Airasca, Campiglione Fenile, Cavour, Cercenasco, Garzigliana, Luserna San Giovanni, Lusernetta, Macello, Osasco, Prarostino, Rorà, Scalenghe, Torre Pellice, Villafranca Piemonte, Volvera, ALI Piemonte, UNCEM Piemonte, ANPCI, ANCI Piemonte 
 
 L’attività e realizzata con il contributo di Regione Piemonte e del Dipartimento per le Politiche giovanili e il Servizio Civile Universale – per il progetto “Partecipazione dei giovani alla vita sociale e politica dei territori” – III Edizione”.
 
