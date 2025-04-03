@@ -25,7 +25,7 @@ A cura del Dr. Michele Fatibene, Innovation Office Manager and Divisional Coordi
 
 📂 [Intervento del Dr. Michele Fatibene](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
 
-📹 Registrazione disponibile [via email a](mailto:corsi@anci.piemonte.it)
+📹 Registrazione disponibile [via email a corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 01/03/2025 - Appalti pubblici (con focus su nuovo codice e primo correttivo)
 A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 
@@ -37,7 +37,7 @@ A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, M
 
 📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
 
-📹 Registrazione disponibile [via email a](mailto:corsi@anci.piemonte.it)
+📹 Registrazione disponibile [via email a corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 05/04/2025 - Promozione del territorio
 
 ### 07/04/2025 - Etica pubblica, status e ruolo dell’Amministratore locale
