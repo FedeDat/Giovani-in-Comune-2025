@@ -13,7 +13,7 @@ _Ente Capofila_: Comune di Vigone
 
 _Enti Partner_: Comuni di Airasca, Campiglione Fenile, Cavour, Cercenasco, Garzigliana, Luserna San Giovanni, Lusernetta, Macello, Osasco, Prarostino, Rorà, Scalenghe, Torre Pellice, Villafranca Piemonte, Volvera, ALI Piemonte, UNCEM Piemonte, ANPCI, ANCI Piemonte 
 
-L’attività e realizzata con il contributo di Regione Piemonte e del Dipartimento per le Politiche giovanili e il Servizio Civile Universale – per il progetto “Partecipazione dei giovani alla vita sociale e politica dei territori” – III Edizione”. Progetto finanziato con il Fondo per le politiche giovanili.
+L’attività è realizzata con il contributo di Regione Piemonte e del Dipartimento per le Politiche giovanili e il Servizio Civile Universale – per il progetto “Partecipazione dei giovani alla vita sociale e politica dei territori” – III Edizione”. Progetto finanziato con il Fondo per le politiche giovanili.
 
 # Materiale
 ### 08/02/2025 - Finanziamenti regionali, nazionali, europei
