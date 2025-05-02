@@ -39,9 +39,15 @@ A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, M
 
 📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 05/04/2025 - Promozione del territorio
+A cura della Dott.ssa Giada Armando di Turismo Torino.
 
+📂 [Intervento della Dott.ssa Giada Armando](https://github.com/FedeDat/Giovani-in-Comune-2025/main/Promozione%20del%20territorio/05_04_2025_Turismo_Giada_Armando.pdf)
 ### 07/04/2025 - Etica pubblica, status e ruolo dell’Amministratore locale
+A cura del Dott. Giuseppe Formichella, Segretario Generale della Città Metropolitana di Torino.
 
+📂 [Intervento del Dott.Giuseppe Formichella](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/)
+
+📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 08/05/2025 - Strumenti digitali per rappresentazione, analisi e gestione del territorio
 
 ### 10/05/2025 - Gestione del Bilancio (con menzione a contabilità accrual e concessione contributi) e processi organizzativi e contabili di enti del terzo settore
