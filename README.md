@@ -49,7 +49,13 @@ A cura del Dott. Giuseppe Formichella, Segretario Generale della Città Metropol
 
 📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 08/05/2025 - Strumenti digitali per rappresentazione, analisi e gestione del territorio
+A cura della Dott.ssa Francesca Noardo (Open GeospatialConsortium), e del Dott. Piergiorgio Cipriano (DedaNext).
 
+📂 [Intervento della Dott.ssa Francesca Noardo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Strumenti%20digitali%20per%20rappresentazione%2C%20analisi%20e%20gestione%20del%20territorio/GiovaniStrumentiDigitali_Noardo.pdf)
+
+📂 [Intervento del Dott. Piergiorgio Cipriano](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Strumenti%20digitali%20per%20rappresentazione%2C%20analisi%20e%20gestione%20del%20territorio/GiovaniStrumentiDigitali_Cipriano.pdf)
+
+📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 10/05/2025 - Gestione del Bilancio (con menzione a contabilità accrual e concessione contributi) e processi organizzativi e contabili di enti del terzo settore
 
 ### 09/06/2025 - Cerimoniale e istituzioni pubbliche nazionali, locali e regionali
