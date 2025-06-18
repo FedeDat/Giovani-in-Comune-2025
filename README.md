@@ -64,4 +64,8 @@ A cura della Dott.ssa Francesca Noardo (Open GeospatialConsortium), e del Dott. 
 
 ### 12/07/2025 - Sviluppo urbano sostenibile
 
+### 17/07/2025 - Ordinamento dell’ente locale, servizi pubblici locali, e potere di ordinanza 
+
+### 26/07/2025 - Comunicazione istituzionale, internet, social media 
+
 ![Footer](images/giovani-in-comune.jpeg)
