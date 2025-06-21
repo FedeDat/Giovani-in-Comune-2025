@@ -57,14 +57,27 @@ A cura della Dott.ssa Francesca Noardo (Open GeospatialConsortium), e del Dott. 
 
 📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 10/05/2025 - Gestione del Bilancio (con menzione a contabilità accrual e concessione contributi) e processi organizzativi e contabili di enti del terzo settore
+A cura del Dott. Roberto Moro, Dirigente del Settore Finanziario del Comune di Novi Ligure e del Dott. Matteo Barbero, Dirigente Direzione Finanza e Patrimonio della Città Metropolitana di Torino.
+
+📂 [Intervento del Dott. Matteo Barbero (Bilancio)]()
+
+📂 [Intervento del Dott. Roberto Moro (Cenni a contabilità accrual)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Bilancio%20e%20processi%20organizzativi%20e%20contabili%20di%20enti%20del%20terzo%20settore/10_05_2025_accrual_sunto_RobertoMoro.pdf)
+
+📂 [Intervento del Dott. Roberto Moro (Concessione contributi alle associazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Bilancio%20e%20processi%20organizzativi%20e%20contabili%20di%20enti%20del%20terzo%20settore/10_05_2025_I%20contributi%20dei%20comuni%20alle%20Associazioni_RobertoMoro.pdf)
 
 ### 09/06/2025 - Cerimoniale e istituzioni pubbliche nazionali, locali e regionali
-A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni istituzionali del Comune di Alessandra.
+A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni istituzionali del Comune di Alessandria.
+
 📂 [Intervento del Dott. Guido Astori](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Cerimoniale%20e%20istituzioni%20pubbliche%20nazionali%2C%20locali%20e%20regionali/09_06_2025_Cerimoniale_GuidoAstori.pdf)
 
 📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 
 ### 14/06/2025 - Gestione del Personale (assunzioni, obiettivi, limiti di spesa) e Welfare
+A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di Torino, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
+
+📂 [Intervento della Dott.ssa Anna Merlo (Gestione del Personale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/14_06_2025_Gestione%20del%20personale_AnnaMerlo.pdf)
+
+📂 [Intervento della Dott.ssa Mara Begheldo (Welfare)]()
 
 ### 12/07/2025 - Sviluppo urbano sostenibile
 
