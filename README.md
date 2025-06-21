@@ -59,7 +59,7 @@ A cura della Dott.ssa Francesca Noardo (Open GeospatialConsortium), e del Dott. 
 ### 10/05/2025 - Gestione del Bilancio (con menzione a contabilità accrual e concessione contributi) e processi organizzativi e contabili di enti del terzo settore
 A cura del Dott. Roberto Moro, Dirigente del Settore Finanziario del Comune di Novi Ligure e del Dott. Matteo Barbero, Dirigente Direzione Finanza e Patrimonio della Città Metropolitana di Torino.
 
-📂 [Intervento del Dott. Matteo Barbero (Bilancio)]()
+📂 [Intervento del Dott. Matteo Barbero (Bilancio) (work in progress 🚧)]()
 
 📂 [Intervento del Dott. Roberto Moro (Cenni a contabilità accrual)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Bilancio%20e%20processi%20organizzativi%20e%20contabili%20di%20enti%20del%20terzo%20settore/10_05_2025_accrual_sunto_RobertoMoro.pdf)
 
@@ -77,7 +77,7 @@ A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di 
 
 📂 [Intervento della Dott.ssa Anna Merlo (Gestione del Personale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/14_06_2025_Gestione%20del%20personale_AnnaMerlo.pdf)
 
-📂 [Intervento della Dott.ssa Mara Begheldo (Welfare)]()
+📂 [Intervento della Dott.ssa Mara Begheldo (Welfare) (work in progress 🚧)]()
 
 ### 12/07/2025 - Sviluppo urbano sostenibile
 
