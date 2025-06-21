@@ -59,6 +59,10 @@ A cura della Dott.ssa Francesca Noardo (Open GeospatialConsortium), e del Dott. 
 ### 10/05/2025 - Gestione del Bilancio (con menzione a contabilità accrual e concessione contributi) e processi organizzativi e contabili di enti del terzo settore
 
 ### 09/06/2025 - Cerimoniale e istituzioni pubbliche nazionali, locali e regionali
+A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni istituzionali del Comune di Alessandra.
+📂 [Intervento del Dott. Guido Astori](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Cerimoniale%20e%20istituzioni%20pubbliche%20nazionali%2C%20locali%20e%20regionali/09_06_2025_Cerimoniale_GuidoAstori.pdf)
+
+📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 
 ### 14/06/2025 - Gestione del Personale (assunzioni, obiettivi, limiti di spesa) e Welfare
 
