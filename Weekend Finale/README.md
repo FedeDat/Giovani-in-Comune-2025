@@ -21,6 +21,6 @@ Link per registrazione ad attività aperte: https://weekend-finale-28-29giugno-g
 
 | **Orario**                                | **Attività** |
 |------------------------------------------------------|--------------|
-| **Mattino** *(solo per cittadini Under 30 e Amministratori Locali registrati)* | **Ore 8:30-09:15** – *Risveglio*<br><br>**Ore 9:15-10:00** – *Yoga*<br><br>**Ore 10:00-12:30** – *Attività di team building “Giovani in Comune! 2.0” – Idee per Bando [“Piemonte per i Giovani”](https://bandi.regione.piemonte.it/contributi-finanziamenti/piemonte-giovani) (scadenza 18/09/2025)*|
+| **Mattino** *(solo per cittadini Under 30 e Amministratori Locali registrati)* | **Ore 8:30-09:15** – *Risveglio*<br><br>**Ore 9:15-10:00** – *Qi Cong*<br><br>**Ore 10:00-12:30** – *Attività di team building “Giovani in Comune! 2.0” – Idee per Bando [“Piemonte per i Giovani”](https://bandi.regione.piemonte.it/contributi-finanziamenti/piemonte-giovani) (scadenza 18/09/2025)*|
 | **Pranzo** *(solo per cittadini Under 30, Amministratori Locali registrati)* | **Ore 12:30–14:30** – *Pranzo presso [Bar Trattoria CRAL](https://maps.app.goo.gl/nnS7xASHUdEHniKh8) (Paella, acqua, bibite, birra o vino, caffè)*<br>Comprensivo di Sindaci dei 16 comuni partner.    |
 | **Pomeriggio** *(solo per cittadini Under 30 e Amministratori Locali registrati)* | **Ore 14:30–16:30** – *Attività libera: Fitwalking lungo il torrente Pellice, giochi presso Valpe Door.*
