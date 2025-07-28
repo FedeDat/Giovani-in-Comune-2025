@@ -79,19 +79,36 @@ A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di 
 
 📂 [Intervento della Dott.ssa Mara Begheldo (Welfare) (work in progress 🚧)]()
 
+### 28-29/06/2025 - Turismo sostenibile e Bando "Piemote per i Giovani"
+A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondatore VALPE DOOR, Dott.ssa Giulia De Grandi, funzionaria di ANCI Piemonte.
+
+📂 [Intervento di Riccardo Cipullo (Turismo sostenibile) (work in progress 🚧)]()
+
+📂 [Intervento di Alberto Volpe (Co-progettazione di bandi) (work in progress 🚧)]()
+
+📂 [Intervento di Giulia De Grandi ("Piemonte per i giovani")](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Turismo%20sostenibile%20e%20Bando%20%22Piemote%20per%20i%20Giovani%22/29_06_25_piemonte%20per%20i%20giovani_DeGrandi.pdf)
+
 ### 12/07/2025 - Sviluppo urbano sostenibile
 A cura del Ing. Stefano Perassi, Energy Manager del Comune di Vigone, della Dott.ssa Gianna Betta, Responsabile Ufficio Pianificazione e Controllo delle Risorse Idriche e del Gruppo di Lavoro Interdipartimentale "Riqualificazioni e Compensazioni Ambientali" presso la Città Metropolitana di Torino, dell'Ing. Roberto Filliol, del Dipartimento Territoriale Piemonte Nord Ovest di ARPA Piemonte.
 
-📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)]()
+📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/12_07_2025_EnergyManager_Perassi.pdf)
 
-📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)]()
+📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_AreeUmide_Betta.pdf)
 
-📂 [Intervento dell'Ing. Roberto Filliol (Modalità di intervento e segnalazione delle Amministrazioni)]()
+📂 [Intervento dell'Ing. Roberto Filliol (Modalità di intervento e segnalazione delle Amministrazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_SegnalazioniArpa_Filliol.pdf)
 
-📂 [Intervento del Dott. Federico Dattila (Sostenibilità: Ostacolo o Opportunità per lo sviluppo?)]()
+📂 [Intervento del Dott. Federico Dattila (Sostenibilità: Ostacolo o Opportunità per lo sviluppo?)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_Gioco-Sostenibilit%C3%A0_Dattila.pdf)
 
 ### 17/07/2025 - Ordinamento dell’ente locale, servizi pubblici locali, e potere di ordinanza 
+A cura del Dott. Marco Orlando, Direttore di ANCI Piemonte.
+
+📂 [Intervento del Dott. Marco Orlando (work in progress 🚧)]()
+
+📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 
 ### 26/07/2025 - Comunicazione istituzionale, internet, social media 
+A cura del Dott. Giovanni Marmina, Responsabile del settore Stampa e New media di ANCI Piemonte.
+
+📂 [Intervento del Dott. Giovanni Marmina (work in progress 🚧)]()
 
 ![Footer](images/giovani-in-comune.jpeg)
