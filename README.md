@@ -91,7 +91,7 @@ A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondato
 ### 12/07/2025 - Sviluppo urbano sostenibile
 A cura del Ing. Stefano Perassi, Energy Manager del Comune di Vigone, della Dott.ssa Gianna Betta, Responsabile Ufficio Pianificazione e Controllo delle Risorse Idriche e del Gruppo di Lavoro Interdipartimentale "Riqualificazioni e Compensazioni Ambientali" presso la Città Metropolitana di Torino, dell'Ing. Roberto Filliol, del Dipartimento Territoriale Piemonte Nord Ovest di ARPA Piemonte.
 
-📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/12_07_2025_EnergyManager_Perassi.pdf)
+📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_EnergyManager_Perassi.pdf)
 
 📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_AreeUmide_Betta.pdf)
 
