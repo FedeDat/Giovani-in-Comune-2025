@@ -1,5 +1,3 @@
-![Banner](images/banner.png)
-
 # Introduzione al progetto
 Il progetto “Giovani in Comune!” ha come obiettivo principale la promozione della partecipazione attiva dei giovani (15-29 anni) e degli Amministratori Comunali Under 35 o di nuova nomina alla vita politica e sociale dei comuni del Pinerolese. Possono partecipare alla formazione anche altri cittadini/cittadine interessate e funzionari/funzionarie comunali. 
 
@@ -65,6 +63,10 @@ A cura del Dott. Roberto Moro, Dirigente del Settore Finanziario del Comune di N
 
 📂 [Intervento del Dott. Roberto Moro (Concessione contributi alle associazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Bilancio%20e%20processi%20organizzativi%20e%20contabili%20di%20enti%20del%20terzo%20settore/10_05_2025_I%20contributi%20dei%20comuni%20alle%20Associazioni_RobertoMoro.pdf)
 
+### 29/05/2025 - Aperi-talk "Il futuro dell'Italia, tra crisi demografica e opportunità"
+con Francesco Costa, Direttore del Post. Con la partecipazione di Lorenzo Di Lenna, Fondazione Nord Est.
+▶️ [Intervento del Dott. Di Lenna](https://youtube.com/shorts/iBXo8FMkiro?feature=share)
+
 ### 09/06/2025 - Cerimoniale e istituzioni pubbliche nazionali, locali e regionali
 A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni istituzionali del Comune di Alessandria.
 
@@ -113,4 +115,4 @@ A cura del Dott. Giovanni Marmina, Responsabile del settore Stampa e New media d
 
 📂 [Intervento del Dott. Giovanni Marmina](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Comunicazione%20istituzionale%2C%20internet%2C%20social%20media/Social%20Media_GiovanniMarmina_BRF_ComunediVigone_26.07.25_Osasco.pdf)
 
-![Footer](images/giovani-in-comune.jpeg)
+![Footer](images/banner.png)
