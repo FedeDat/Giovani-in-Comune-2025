@@ -1,3 +1,5 @@
+[![Guarda il video di "Giovani in Comune!](https://img.youtube.com/vi/JB5He-ArGgM/maxresdefault.jpg)](https://youtu.be/JB5He-ArGgM)
+
 # Introduzione al progetto
 Il progetto “Giovani in Comune!” ha come obiettivo principale la promozione della partecipazione attiva dei giovani (15-29 anni) e degli Amministratori Comunali Under 35 o di nuova nomina alla vita politica e sociale dei comuni del Pinerolese. Possono partecipare alla formazione anche altri cittadini/cittadine interessate e funzionari/funzionarie comunali. 
 
@@ -65,7 +67,7 @@ A cura del Dott. Roberto Moro, Dirigente del Settore Finanziario del Comune di N
 
 ### 29/05/2025 - Aperi-talk "Il futuro dell'Italia, tra crisi demografica e opportunità"
 con Francesco Costa, Direttore del Post. Con la partecipazione di Lorenzo Di Lenna, Fondazione Nord Est.
-▶️ [Intervento del Dott. Di Lenna](https://youtube.com/shorts/iBXo8FMkiro?feature=share)
+▶️ [Intervento del Dott. Di Lenna](https://youtu.be/Wxm7_YDsY8E)
 
 ### 09/06/2025 - Cerimoniale e istituzioni pubbliche nazionali, locali e regionali
 A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni istituzionali del Comune di Alessandria.
