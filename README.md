@@ -82,20 +82,16 @@ A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di 
 ### 28-29/06/2025 - Turismo sostenibile e Bando "Piemote per i Giovani"
 A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondatore VALPE DOOR, Dott.ssa Giulia De Grandi, funzionaria di ANCI Piemonte.
 
-📂 [Intervento di Riccardo Cipullo (Turismo sostenibile) (work in progress 🚧)]()
-
-📂 [Intervento di Alberto Volpe (Co-progettazione di bandi) (work in progress 🚧)]()
-
 📂 [Intervento di Giulia De Grandi ("Piemonte per i giovani")](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Turismo%20sostenibile%20e%20Bando%20%22Piemote%20per%20i%20Giovani%22/29_06_25_piemonte%20per%20i%20giovani_DeGrandi.pdf)
 
 ### 12/07/2025 - Sviluppo urbano sostenibile
 A cura del Ing. Stefano Perassi, Energy Manager del Comune di Vigone, della Dott.ssa Gianna Betta, Responsabile Ufficio Pianificazione e Controllo delle Risorse Idriche e del Gruppo di Lavoro Interdipartimentale "Riqualificazioni e Compensazioni Ambientali" presso la Città Metropolitana di Torino, dell'Ing. Roberto Filliol, del Dipartimento Territoriale Piemonte Nord Ovest di ARPA Piemonte.
 
-📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_EnergyManager_Perassi.pdf)
+📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/EnergyManager_StefanoPerassi_BRF_ComunediVigone_12.07.25_Vigone.pdf)
 
-📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_AreeUmide_Betta.pdf)
+📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/AreeUmide_GiannaBetta_BRF_ComunediVigone_12.07.25_Vigone.pdf)
 
-📂 [Intervento dell'Ing. Roberto Filliol (Modalità di intervento e segnalazione delle Amministrazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_SegnalazioniArpa_Filliol.pdf)
+📂 [Intervento dell'Ing. Roberto Filliol (Modalità di intervento e segnalazione delle Amministrazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/SegnalazioniArpa_RobertoFilliol_BRF_ComunediVigone_12.07.25_Vigone.pdf)
 
 📂 [Intervento del Dott. Federico Dattila (Sostenibilità: Ostacolo o Opportunità per lo sviluppo?)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_Gioco-Sostenibilit%C3%A0_Dattila.pdf)
 
