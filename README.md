@@ -88,11 +88,16 @@ A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondato
 A cura del Ing. Stefano Perassi, Energy Manager del Comune di Vigone, della Dott.ssa Gianna Betta, Responsabile Ufficio Pianificazione e Controllo delle Risorse Idriche e del Gruppo di Lavoro Interdipartimentale "Riqualificazioni e Compensazioni Ambientali" presso la Città Metropolitana di Torino, dell'Ing. Roberto Filliol, del Dipartimento Territoriale Piemonte Nord Ovest di ARPA Piemonte.
 
 📂 [Intervento dell'Ing. Stefano Perassi (La gestione dell'energia in un ente pubblico)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/EnergyManager_StefanoPerassi_BRF_ComunediVigone_12.07.25_Vigone.pdf)
+
 ▶️ [Commento sul progetto](https://youtube.com/shorts/iBXo8FMkiro?feature=share)
 
 📂 [Intervento della Dott.ssa Gianna Betta (Recupero e tutela di aree degradate ad alto interesse ambientale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/AreeUmide_GiannaBetta_BRF_ComunediVigone_12.07.25_Vigone.pdf)
 
+▶️ [Commento sul progetto](https://youtube.com/shorts/XZzofb2aD4w?feature=share)
+
 📂 [Intervento dell'Ing. Roberto Filliol (Modalità di intervento e segnalazione delle Amministrazioni)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/SegnalazioniArpa_RobertoFilliol_BRF_ComunediVigone_12.07.25_Vigone.pdf)
+
+▶️ [Commento sul progetto](https://www.youtube.com/shorts/m5l5lhjA52c)
 
 📂 [Intervento del Dott. Federico Dattila (Sostenibilità: Ostacolo o Opportunità per lo sviluppo?)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Sviluppo%20urbano%20sostenibile/12_07_2025_Gioco-Sostenibilit%C3%A0_Dattila.pdf)
 
@@ -106,6 +111,6 @@ A cura del Dott. Marco Orlando, Direttore di ANCI Piemonte.
 ### 26/07/2025 - Comunicazione istituzionale, internet, social media 
 A cura del Dott. Giovanni Marmina, Responsabile del settore Stampa e New media di ANCI Piemonte.
 
-📂 [Intervento del Dott. Giovanni Marmina (work in progress 🚧)]()
+📂 [Intervento del Dott. Giovanni Marmina](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Comunicazione%20istituzionale%2C%20internet%2C%20social%20media/Social%20Media_GiovanniMarmina_BRF_ComunediVigone_26.07.25_Osasco.pdf)
 
 ![Footer](images/giovani-in-comune.jpeg)
