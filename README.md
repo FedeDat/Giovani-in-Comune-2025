@@ -33,9 +33,9 @@ A cura di Luciana Mellano, Responsabile Tecnico presso il Comune di Lombardore.
 ### 13/03/2025 - Politiche di invecchiamento attivo
 A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, Marcello Galletti, responsabile Servizio Innovazione e Sviluppo della Diaconia Valdese Valli, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
 
-📂 [Intervento di Katia Castellano e Marcello Galletti](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Castellano_Galetti.pdf)
+📂 [Intervento di Katia Castellano e Marcello Galletti](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/Invecchiamento%20Attivo_CastellanoGalletti_BRF_ComunediVigone_13.03.25.pdf)
 
-📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/13_03_2025_Invecchiamento_Attivo_Mara_Begheldo.pdf)
+📂 [Intervento della Dott.ssa Mara Begheldo](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Politiche%20di%20invecchiamento%20attivo/Invecchiamento%20Attivo_MaraBegheldo_BRF_ComunediVigone_13.03.25.pdf)
 
 📹 Registrazione disponibile tramite richiesta via email a [corsi@anci.piemonte.it](mailto:corsi@anci.piemonte.it)
 ### 05/04/2025 - Promozione del territorio
