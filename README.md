@@ -41,7 +41,7 @@ A cura di Katia Castellano, Responsabile Area Anziani C.I.S.S. del Pinerolese, M
 ### 05/04/2025 - Promozione del territorio
 A cura della Dott.ssa Giada Armando di Turismo Torino.
 
-📂 [Intervento della Dott.ssa Giada Armando](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Promozione%20del%20territorio/05_04_2025_Turismo_Giada_Armando.pdf)
+📂 [Intervento della Dott.ssa Giada Armando](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Promozione%20del%20territorio/Promozione%20del%20territorio_Giada%20Armando_BRF_ComunediVigone_05.04.25_Cavour.pdf)
 ### 07/04/2025 - Etica pubblica, status e ruolo dell’Amministratore locale
 A cura del Dott. Giuseppe Formichella, Segretario Generale della Città Metropolitana di Torino.
 
