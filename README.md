@@ -75,9 +75,9 @@ A cura del Dott. Guido Astori, responsabile Ufficio cerimoniale e relazioni isti
 ### 14/06/2025 - Gestione del Personale (assunzioni, obiettivi, limiti di spesa) e Welfare
 A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di Torino, e della Dott.ssa Mara Begheldo, Esperto Welfare - Immigrazione - Politiche Abitative - ANCI Piemonte.
 
-📂 [Intervento della Dott.ssa Anna Merlo (Gestione del Personale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/14_06_2025_Gestione%20del%20personale_AnnaMerlo.pdf)
+📂 [Intervento della Dott.ssa Anna Merlo (Gestione del Personale)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/Gestione%20del%20personale_AnnaMerlo_BRF_ComunediRora_14.06.25.pdf)
 
-📂 [Intervento della Dott.ssa Mara Begheldo (Welfare) (work in progress 🚧)]()
+📂 [Intervento della Dott.ssa Mara Begheldo (Welfare)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/Gestione%20del%20personale_MaraBegheldo_BRF_ComunediVigone_14.06.25_Lusernetta.pdf)
 
 ### 28-29/06/2025 - Turismo sostenibile e Bando "Piemote per i Giovani"
 A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondatore VALPE DOOR, Dott.ssa Giulia De Grandi, funzionaria di ANCI Piemonte.
