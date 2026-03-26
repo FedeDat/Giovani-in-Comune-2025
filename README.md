@@ -84,7 +84,7 @@ A cura della Dott.ssa Anna Merlo, Dirigente della Divisione Personale Città di 
 
 📂 [Intervento della Dott.ssa Mara Begheldo (Welfare)](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Gestione%20del%20Personale%20e%20Welfare/Gestione%20del%20personale_MaraBegheldo_BRF_ComunediVigone_14.06.25_Lusernetta.pdf)
 
-### 28-29/06/2025 - Turismo sostenibile e Bando "Piemote per i Giovani"
+### 28-29/06/2025 - Turismo sostenibile e Bando "Piemonte per i Giovani"
 A cura di Riccardo Cipullo, co-founder di VERTICALIFE, Alberto Volpe, co-fondatore VALPE DOOR, Dott.ssa Giulia De Grandi, funzionaria di ANCI Piemonte.
 
 📂 [Intervento di Giulia De Grandi ("Piemonte per i giovani")](https://raw.githubusercontent.com/FedeDat/Giovani-in-Comune-2025/main/Turismo%20sostenibile%20e%20Bando%20%22Piemote%20per%20i%20Giovani%22/29_06_25_piemonte%20per%20i%20giovani_DeGrandi.pdf)
